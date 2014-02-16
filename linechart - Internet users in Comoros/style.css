@@ -1,0 +1,13 @@
+
+path{
+	stroke-width: 2;
+}
+body, a{
+	color: #2c3e50; 
+	font-family: Helvetica,Arial,sans-serif;
+	font-weight: 600;
+	background: #ecf0f1;
+}
+rect{
+	fill: #8e44ad;
+}

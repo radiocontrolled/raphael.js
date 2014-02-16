@@ -1,0 +1,1 @@
+UN Data: <a href="http://data.un.org/CountryProfile.aspx?crName=Comoros">Comoros, Internet users (per 100 inhabitants), 2011</a>
